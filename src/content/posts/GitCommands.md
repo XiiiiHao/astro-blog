@@ -5,7 +5,6 @@ categories : ['git','tools']
 description: 'Some git commands in daily usage'
 slug: 
 ---
-# 常用git指令
 
 ```bash
 
