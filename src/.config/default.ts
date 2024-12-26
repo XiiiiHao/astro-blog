@@ -5,16 +5,16 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '活版印字',
-    subtitle: 'Typography',
-    author: 'Moeyua',
+    title: 'Xiiiihao's Blog ',
+    subtitle: 'Xiiiihao',
+    author: 'Xiiiihao',
     description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
+    website: 'https://www.xiiiihao.xyz/',
     pageSize: 5,
     socialLinks: [
       {
         name: 'github',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://github.com/xiiiihao',
       },
       {
         name: 'rss',
@@ -22,11 +22,11 @@ export const defaultConfig: ThemeConfig = {
       },
       {
         name: 'twitter',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://github.com/xiiiihao',
       },
       {
         name: 'mastodon',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://github.com/xiiiihao',
       },
     ],
     navLinks: [
@@ -72,7 +72,7 @@ export const defaultConfig: ThemeConfig = {
     },
   },
   seo: {
-    twitter: '@moeyua13',
+    twitter: '',
     meta: [],
     link: [],
   },
