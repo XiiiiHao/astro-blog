@@ -23,7 +23,7 @@ ot : origin text ; tt : target text
 
 ## Select 
 * V : current line
-* <C-v> : select blocks
+* \<C-v\> : select blocks
 * ggVG : select whole file quickly
 
 
